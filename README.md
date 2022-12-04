@@ -30,7 +30,7 @@
  
  7-Produit item:
  
- ![image](https://user-images.githubusercontent.com/84717947/202050395-d025f230-4297-4d5f-9171-e003c45b6357.png)
+![image](https://user-images.githubusercontent.com/84717947/202050395-d025f230-4297-4d5f-9171-e003c45b6357.png)
 
 ![image](https://user-images.githubusercontent.com/84717947/202050371-6f67b402-fdab-4d8b-b6bd-1e03c5eb4e9f.png)
 
